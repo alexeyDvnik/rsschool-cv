@@ -1,0 +1,36 @@
+body {
+    background-color: darkkhaki;
+} 
+.title {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 25px;
+    margin-top: 56px;
+}
+.big_block {
+    
+ background-color: coral;
+    display: inline-block;
+    width: 1100px;
+    height: 1100px;
+} 
+.mid_block1 {
+    background-color: rgb(86, 139, 0);
+    width: 230px;
+    height: 300px;
+    padding-left: 5px;
+}
+.mid_block2 {
+    background-color: rgb(223, 32, 32);
+    width: 230px;
+    height: 300px;
+    padding-left: 5px;
+
+}
+.mid_block3 {
+    background-color: darkmagenta;
+    width: 230px;
+    height: 300px;
+    padding-left: 5px;
+
+}
