@@ -25,6 +25,6 @@ ___
 * I haven't completed a single course yet.
 * In the process of studying HTML courses on the website freecodecamp.org and rollingscopes.com
 ###Languages:
-*Russian native speaker.
+* Russian native speaker.
 * English in progress. Level: **A1** (but I know how to use google translation).
 * I know three swear words in the Tatar language.
