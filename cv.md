@@ -28,3 +28,14 @@ ___
 I started one study project but didn't finish it:
 [Plants.](https://rolling-scopes-school.github.io/alexeydvnik-JSFEPRESCHOOL2022Q4/plants/)
 ___
+
+## Education and courses:
+* I haven't completed any course yet.
+* In the process of studying HTML courses on the website freecodecamp.org and rollingscopes.com
+
+___
+
+## Languages:
+* ___Russian___ native speaker.
+* ___English___ in progress. Level: **A2** (but I know how to use google translation).
+* I know three swear words in the Tatar language.
