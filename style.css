@@ -124,3 +124,74 @@ b {
 .headder__nav a:hover {
 	color: #f05525;
 }
+.main {
+	padding-top: 60px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+}
+
+.main__wrapper {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	justify-items: center;
+	grid-template-rows: auto;
+	grid-template-areas:
+	"intro intro"
+	"grid-items grid-items";
+	column-gap: 20px;
+	row-gap: 30px;
+}
+
+.avatar {
+	display: inline-block;
+	height: 320px;
+	width:  300;
+}
+
+.section-introducing {
+	display: flex;
+	align-items: center;
+	min-width: 960px;
+	grid-area: intro;
+	padding: 15px 55px;
+	justify-content: space-between;
+}
+
+.intro {
+	padding-left: 100px;
+	text-align: center;
+}
+
+.intro h1 {
+	font-size: 45px;
+}
+.intro p {
+	font-size: 25px;
+}
+
+.list {
+	list-style: none;
+	display: flex;
+	flex-direction: column;
+	padding-left: 0;
+}
+
+.list-item {
+	margin-bottom: 25px;
+	line-height: 20px;
+}
+
+#contacts {
+	justify-self: stretch;
+}
+
+.code {
+	display: inline-block;
+	text-align: left;
+	padding-left: 60px;
+	background-color: #fae96833;
+	padding: 25px 25px;
+	font-weight: 700;
+	margin-left: 20%;
+}
+
