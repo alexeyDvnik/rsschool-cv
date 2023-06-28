@@ -100,6 +100,7 @@ b {
 	left: 50%;
 	bottom: 0;
 }
+
 .headder__nav a::before {
 	display: block;
 	position: absolute;
@@ -195,3 +196,15 @@ b {
 	margin-left: 20%;
 }
 
+.footer {
+	height: 85px;
+	background-color: #faea68;
+	padding-left: 30px;
+}
+
+.footer__wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 15px;
+}
